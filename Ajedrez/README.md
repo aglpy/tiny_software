@@ -48,3 +48,6 @@ This complete operation will be stored in a file in the project directory, which
 - The black squares on the board are represented by the '=' symbol and white squares are represented by the '_' symbol.
 
 Enjoy your game!
+
+## Contributing
+Thank you for your interest in contributing. Please submit a pull request with any suggested updates. Please make sure to test your changes thoroughly before submission.
